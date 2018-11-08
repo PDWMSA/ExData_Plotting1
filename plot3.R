@@ -1,6 +1,6 @@
 library(lubridate)
 library(readr)
-
+library(dplyr)
 
 ##Data can be downloaded directly from: "https://d396qusza40orc.cloudfront.net/exdata%2Fdata%2Fhousehold_power_consumption.zip"
 
